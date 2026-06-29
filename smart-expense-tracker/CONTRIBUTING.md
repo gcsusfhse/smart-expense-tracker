@@ -38,7 +38,7 @@ test: add unit tests for Validators class
 ## How to Contribute (for future extensions)
 
 1. Fork the repository.
-2. Clone your fork: `git clone https://github.com/<your-username>/smart-expense-tracker.git`
+2. Clone your fork: `git clone https://github.com/gcsusfhse/smart-expense-tracker.git`
 3. Create a new branch: `git checkout -b feature/your-feature-name`
 4. Make your changes, following the existing code style (see below).
 5. Run `flutter analyze` and `flutter test` before committing.
